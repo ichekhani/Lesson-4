@@ -1,0 +1,15 @@
+/*Basic Clases*/
+.floatl {float:left; clear:left;}
+.floatr {float:right; clear:right;}
+.display {display:inline-block;}
+/*Basic Clases*/
+.logoimg img {width:100px; margin-right:56px;margin-top:51px; display:inline-block;}
+.clear {clear:both;}
+.background  {background-color:#22B573;}
+.header {width:1170px;}
+.divmenu {display:inline-block; margin-left:300px; margin-top:50px; text-decoration:none;}
+.menu {display:inline-block; }
+.dec {text-decoration: none; font-family:Myriad Pro;margin-left:40px; font-size:48px;color:#FFFFFF;}
+.divider {padding-top:50px; }
+.newsbox {width:617px; height: 356px;background-color:#FCEE21;}
+.nav-li::after {content:"";}
